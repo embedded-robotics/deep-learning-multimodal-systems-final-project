@@ -1,4 +1,4 @@
-# How to Run the code
+# Descriptive Image Captioning using Vision and Language Models
 
 1. Download the cooperhewitt-image-dataset using the following link
     Get the cooperhewitt pre-processed dataset from here:
